@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 Simple webapp to view dog images from https://random.dog/woof.json in form of flex box. Add/Remove dogs to your favorites.
+
 <img width="600" alt="Screenshot 2022-04-29 at 4 16 31 AM" src="https://user-images.githubusercontent.com/55511661/165860358-e9349ce1-2cb5-42ec-a936-0854e38c08a7.png">
 
 Home screen of the webapp with dog images
